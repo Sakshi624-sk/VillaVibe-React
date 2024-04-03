@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VillaVibe-React/static/css/main.3b410eb8.css",
+    "main.js": "/VillaVibe-React/static/js/main.e0e5061b.js",
+    "static/media/sky-vacation-swimming-beautiful-sea.jpg": "/VillaVibe-React/static/media/sky-vacation-swimming-beautiful-sea.8b8a6487102d239bbcf0.jpg",
+    "static/media/contact.jpg": "/VillaVibe-React/static/media/contact.ce9040ebef8e645a7cc6.jpg",
+    "static/media/host2.jpg": "/VillaVibe-React/static/media/host2.02212a733e27223c77cb.jpg",
+    "index.html": "/VillaVibe-React/index.html",
+    "main.3b410eb8.css.map": "/VillaVibe-React/static/css/main.3b410eb8.css.map",
+    "main.e0e5061b.js.map": "/VillaVibe-React/static/js/main.e0e5061b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b410eb8.css",
+    "static/js/main.e0e5061b.js"
+  ]
+}
