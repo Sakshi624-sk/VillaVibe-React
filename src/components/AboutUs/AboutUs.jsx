@@ -6,7 +6,7 @@ const AboutUs = () => {
     <>
     <section id='aboutPage' className='page'>
         <div className="container">
-           <img src="/public/about.jpg" alt="about" /> 
+           <img src="https://github.com/Zeeshu911/Luxury-Real-Estate-Website-With-ReactJS/blob/main/project/public/about.jpg?raw=true" alt="about" /> 
            <div className="content">
             <h3>Celebrate Our Journey: Discover VillaVista's Story!</h3>
             <p>VillaVista: Where luxury meets hospitality. Our story? It's simple: we're passionate about creating unforgettable experiences. With handpicked villas and personalized service, we redefine luxury living.</p>
