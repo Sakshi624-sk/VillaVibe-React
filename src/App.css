@@ -502,7 +502,7 @@ h5 {
   padding: 75px 20px;
   border-bottom-right-radius: 100px;
   height: 600px;
-  background: url(/public/host2.jpg);
+  background: url(./public/host2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -685,7 +685,7 @@ h5 {
 /****************************************CONTACT MINI STYLING*************************************************/
 #contact_Mini {
   height: 500px;
-  background: url(/public/contact.jpg);
+  background: url(./public/contact.jpg);
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
