@@ -6,6 +6,7 @@ const AboutUs = () => {
     <>
     <section id='aboutPage' className='page'>
         <div className="container">
+          <a href="	https://github.com/Zeeshu911/Luxury-Real-Estate-We…actJS/blob/main/project/public/about.jpg?raw=true"></a>
            <img src="/about.jpg" alt="about" /> 
            <div className="content">
             <h3>Celebrate Our Journey: Discover VillaVista's Story!</h3>
