@@ -16,11 +16,15 @@ const SingleVilla = () => {
             </div>
             <div className="otherImgs">
               <div>
+                <a href="https://github.com/Zeeshu911/Luxury-Real-Estate-We…tJS/blob/main/project/public/villa10.jpg?raw=true"></a>
                 <img src={"/villa10.jpg"} alt="villa" />
+                <a href="https://github.com/Zeeshu911/Luxury-Real-Estate-We…ctJS/blob/main/project/public/people.jpg?raw=true"></a>
                 <img src={"/people.jpg"} alt="villa" />
               </div>
               <div>
+                <a href="https://github.com/Zeeshu911/Luxury-Real-Estate-We…tJS/blob/main/project/public/people2.jpg?raw=true"></a>
                 <img src={"/people2.jpg"} alt="villa" />
+                 <a href="https://github.com/Zeeshu911/Luxury-Real-Estate-We…tJS/blob/main/project/public/villa10.jpg?raw=true"></a>
                 <img src={"/villa10.jpg"} alt="villa" />
               </div>
             </div>
